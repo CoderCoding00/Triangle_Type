@@ -17,3 +17,4 @@
 ```
 
 # Screen Shot of the Test Output 
+<img width="587" alt="Triangle_Type" src="https://user-images.githubusercontent.com/107374333/213939016-abbc9cfc-e5f5-4f55-9ecb-67c582c90b62.png">
